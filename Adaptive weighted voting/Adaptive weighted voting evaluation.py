@@ -268,7 +268,7 @@ if __name__ == '__main__':
     
     
     # load dataset
-    path = ["/home/kunwang/Data/DSS/review data/dataset name.csv"]
+    path = ["/home/kunwang/Data/review data/dataset name.csv"]
       
     
     path_name = ["dataset name"]

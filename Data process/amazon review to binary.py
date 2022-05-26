@@ -20,10 +20,9 @@ from nltk.stem.porter import PorterStemmer
 import re
 
 
-input_path_name = ["/home/kunwang/Data/DSS/review data/dataset name.csv"]
+input_path_name = ["/home/kunwang/Data/review data/dataset name.csv"]
 
-
-output_path_name = ["/home/kunwang/Data/DSS/review data binary/dataset name.csv"]
+output_path_name = ["/home/kunwang/Data/review data binary/dataset name.csv"]
 
 
 n = len(input_path_name)

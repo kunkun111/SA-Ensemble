@@ -284,7 +284,7 @@ if __name__ == '__main__':
     
     
     
-    path = ["/home/kunwang/Data/DSS/review data/dataset name.csv"]
+    path = ["/home/kunwang/Data/review data/dataset name.csv"]
       
     
     data_name = ["dataset name"]
