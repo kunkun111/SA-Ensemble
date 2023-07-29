@@ -1,3 +1,2 @@
 
-### Source code and datasets of the paper 'A Self-Adaptive Ensemble for User Interest Drift Learning During the Pandemic'.
-#### The review data have been preprocessed.
+### Source code and datasets of the paper 'Real-Time Data Stream Learning for Emergency Decision-Making Under Uncertainty'.
