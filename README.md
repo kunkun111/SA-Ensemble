@@ -1,2 +1,2 @@
 
-### Source code and datasets of the paper 'A Self-Adaptive Ensemble for User Interest Drift Learning'.
+### Source code and datasets of SA-Ensemble algorithm.
